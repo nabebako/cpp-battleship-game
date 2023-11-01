@@ -1,0 +1,2 @@
+Pratice c++ by creating a simulation of Battle Ships on the terminal.
+Sep 2020
